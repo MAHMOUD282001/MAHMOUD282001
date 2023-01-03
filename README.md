@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently studying at faculty of computer and information technology, Menofia University, Egypt.
+- 🌱 I’m currently learning Frontend Web Development.
+- 👯 I’m looking to collaborate on some web projects.
+- 💬 Ask me about Web Technologies
+- 📫 How to reach me: https://github.com/MAHMOUD282001 , https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/ , +201068528416
