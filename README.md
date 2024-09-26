@@ -13,12 +13,6 @@
 
 - ⚡ Fun fact **I Love life & Coding**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mahmoud.khallaf.5688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoud.khallaf.5688" height="30" width="40" /></a>
-</p>
-
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -32,3 +26,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Material Ui](https://img.shields.io/badge/materialui-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+# 📱 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahmoud.khallaf.5688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoud.khallaf.5688" height="30" width="40" /></a>
+</p>
+
