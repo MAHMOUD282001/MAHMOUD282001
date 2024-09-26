@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Khallaf</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Passionate Frontend Developer React Js From Egypt</h3>
 
 
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
@@ -36,5 +36,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-khallaf-084b911b9/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mahmoud.khallaf.5688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoud.khallaf.5688" height="30" width="40" /></a>
+<a href="https://wa.me/201068528416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/201068528416" height="30" width="40" /></a>
 </p>
 
